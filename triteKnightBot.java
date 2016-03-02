@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 
 import org.jibble.pircbot.*;
 
-//Now, how does this work? 
+//Now, how does this work?
 
 
 public class triteKnightBot extends PircBot {
@@ -54,13 +54,18 @@ public class triteKnightBot extends PircBot {
         // This is a modified function of the onMessage that initially came with Pircbot.
         // For Trite, I added a few commands specific to the channel and maintenance of such commands.
         /*
+
+				These two work very similarly, essentially myname just pulls the senders username into the !name function
 				!name
 				!myname
+
+
 				!editname user=knightname
 				!addname user=knightname
 
 				As well as an oncall listener that watches for moobot to say a certain phrase, triggering the
 				recording of a video timestamp
+
         */
     public String getName(String username){
     	String knight;
