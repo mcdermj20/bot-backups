@@ -5,7 +5,7 @@ package triteKnightBot;
  * Author: Jesse McDermott
  * Description:
  * 		Driver for pircbot implementation
- * 
+ *  
  */
 
 public class Main {

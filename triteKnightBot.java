@@ -7,7 +7,7 @@ import java.text.SimpleDateFormat;
 
 import org.jibble.pircbot.*;
 
-//Now, how does this work?
+//Now, how does this work? 
 
 
 public class triteKnightBot extends PircBot {
