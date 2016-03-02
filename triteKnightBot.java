@@ -8,6 +8,8 @@ import java.text.SimpleDateFormat;
 import org.jibble.pircbot.*;
 
 //Now, how does this work?
+//I really have no Idea what I'm doing with git.
+//Like what in the fuck am I doing >.>
 
 
 public class triteKnightBot extends PircBot {
