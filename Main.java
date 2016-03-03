@@ -18,6 +18,7 @@ public class Main {
         triteKnightBot bot = new triteKnightBot();
 
         // Enable debugging output.
+				//boop
         bot.setVerbose(true);
 
         // Connect to an IRC server.
